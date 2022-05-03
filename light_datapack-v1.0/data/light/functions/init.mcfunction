@@ -1,2 +1,0 @@
-tellraw @a ["> ",{"text": "Light Datapack","color": "yellow","hoverEvent": {"action": "show_text","value": ["Click to show the menu!"]},"clickEvent": {"action": "run_command","value": "/function light:menu"}}," Enabled!"]
-tellraw @a ["> by ",{"text": "NelzKrepz","color": "aqua","bold": true}]
